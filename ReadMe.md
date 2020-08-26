@@ -3,7 +3,7 @@
     - `php bathroom-stalls/index.php`
     - `php tidy-numbers/index.php`
     
-2. All the input placed inside 'input' folder of each case
+2. All the input placed inside 'input' folder of each problem
 3. In 'index.php' file, you can comment and uncomment to use which input file
     ```
     private $files = [
